@@ -1,0 +1,2194 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.8)  1 MAY 2025 04:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./REPORT.tex
+(REPORT.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(D:\TEST\tex/latex/base\report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(D:\TEST\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@chapter=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (D:\TEST\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(D:\TEST\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (D:\TEST\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(D:\TEST\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(D:\TEST\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(D:\TEST\tex/latex/babel-vietnamese\vietnamese.ldf
+Language: vietnamese 
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Vietnamese' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 36.
+
+Package babel Info: Hyphen rules for 'vietnamese' set to \l@english
+(babel)             (\language0). Reported on input line 37.
+Package babel Info: Hyphen rules for 'vietnam' set to \l@english
+(babel)             (\language0). Reported on input line 38.
+Loading definitions for the Vietnamese font encoding
+(D:\TEST\tex/latex/vntex\t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encoding T5
+ (D:\TEST\tex/latex/vntex\t5enc.dfu
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+))
+Package babel Info: Making " an active character on input line 147.
+))
+(D:\TEST\tex/generic/babel/locale/vi\babel-vietnamese.tex
+Package babel Info: Importing font and identification data for vietnamese
+(babel)             from babel-vi.ini. Reported on input line 11.
+)
+(D:\TEST\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (D:\TEST\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (D:\TEST\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (D:\TEST\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (D:\TEST\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(D:\TEST\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(D:\TEST\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (D:\TEST\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(D:\TEST\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count198
+\Gm@cntv=\count199
+\c@Gm@tempcnt=\count266
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks20
+ (D:\TEST\tex/latex/geometry\geometry.cfg)) (D:\TEST\tex/latex/placeins\placein
+s.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(D:\TEST\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(D:\TEST\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (D:\TEST\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen152
+))
+(D:\TEST\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+) (D:\TEST\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count267
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count268
+\leftroot@=\count269
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count270
+\DOTSCASE@=\count271
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count272
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count273
+\dotsspace@=\muskip16
+\c@parentequation=\count274
+\dspbrk@lvl=\count275
+\tag@help=\toks22
+\row@=\count276
+\column@=\count277
+\maxfields@=\count278
+\andhelp@=\toks23
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks24
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(D:\TEST\tex/latex/tabto-ltx\tabto.sty
+Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
+\CurrentLineWidth=\dimen161
+\TabPrevPos=\dimen162
+) (D:\TEST\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(D:\TEST\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+)
+(D:\TEST\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(D:\TEST\tex/latex/background\background.sty
+Package: background 2014/03/04 v2.1 background material
+
+(D:\TEST\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (D:\TEST\tex/generic/xkeyval\xkeyval.tex (D:\TEST\tex/generic/xkeyval\xkvutils
+.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(D:\TEST\tex/latex/pgf/frontendlayer\tikz.sty
+(D:\TEST\tex/latex/pgf/basiclayer\pgf.sty
+(D:\TEST\tex/latex/pgf/utilities\pgfrcs.sty
+(D:\TEST\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen163
+\pgfutil@tempdimb=\dimen164
+)
+(D:\TEST\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box53
+)
+(D:\TEST\tex/generic/pgf/utilities\pgfrcs.code.tex
+(D:\TEST\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(D:\TEST\tex/latex/pgf/basiclayer\pgfcore.sty
+(D:\TEST\tex/latex/pgf/systemlayer\pgfsys.sty
+(D:\TEST\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(D:\TEST\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(D:\TEST\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen165
+\pgf@y=\dimen166
+\pgf@xa=\dimen167
+\pgf@ya=\dimen168
+\pgf@xb=\dimen169
+\pgf@yb=\dimen170
+\pgf@xc=\dimen171
+\pgf@yc=\dimen172
+\pgf@xd=\dimen173
+\pgf@yd=\dimen174
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count284
+
+(D:\TEST\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(D:\TEST\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(D:\TEST\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(D:\TEST\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count285
+\pgfsyssoftpath@bigbuffer@items=\count286
+)
+(D:\TEST\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(D:\TEST\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (D:\TEST\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+(D:\TEST\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(D:\TEST\tex/generic/pgf/math\pgfmath.code.tex
+(D:\TEST\tex/generic/pgf/math\pgfmathutil.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen175
+\pgfmath@count=\count287
+\pgfmath@box=\box54
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(D:\TEST\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathcalc.code.tex)
+(D:\TEST\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count288
+))
+(D:\TEST\tex/generic/pgf/math\pgfint.code.tex)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen176
+\pgf@picmaxx=\dimen177
+\pgf@picminy=\dimen178
+\pgf@picmaxy=\dimen179
+\pgf@pathminx=\dimen180
+\pgf@pathmaxx=\dimen181
+\pgf@pathminy=\dimen182
+\pgf@pathmaxy=\dimen183
+\pgf@xx=\dimen184
+\pgf@xy=\dimen185
+\pgf@yx=\dimen186
+\pgf@yy=\dimen187
+\pgf@zx=\dimen188
+\pgf@zy=\dimen189
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen190
+\pgf@path@lasty=\dimen191
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen192
+\pgf@shorten@start@additional=\dimen193
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count289
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen194
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen195
+\pgf@pt@y=\dimen196
+\pgf@pt@temp=\dimen197
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen198
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen199
+\pgf@sys@shading@range@num=\count290
+\pgf@shadingcount=\count291
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box58
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(D:\TEST\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(D:\TEST\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box59
+)
+(D:\TEST\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(D:\TEST\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen256
+\pgf@nodesepend=\dimen257
+)
+(D:\TEST\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(D:\TEST\tex/latex/pgf/utilities\pgffor.sty
+(D:\TEST\tex/latex/pgf/utilities\pgfkeys.sty
+(D:\TEST\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(D:\TEST\tex/latex/pgf/math\pgfmath.sty
+(D:\TEST\tex/generic/pgf/math\pgfmath.code.tex))
+(D:\TEST\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen258
+\pgffor@skip=\dimen259
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(D:\TEST\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(D:\TEST\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count292
+\pgfplotmarksize=\dimen260
+)
+\tikz@lastx=\dimen261
+\tikz@lasty=\dimen262
+\tikz@lastxsaved=\dimen263
+\tikz@lastysaved=\dimen264
+\tikz@lastmovetox=\dimen265
+\tikz@lastmovetoy=\dimen266
+\tikzleveldistance=\dimen267
+\tikzsiblingdistance=\dimen268
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count293
+\tikznumberofchildren=\count294
+\tikznumberofcurrentchild=\count295
+\tikz@fig@count=\count296
+
+(D:\TEST\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count297
+\pgfmatrixcurrentcolumn=\count298
+\pgf@matrix@numberofcolumns=\count299
+)
+\tikz@expandcount=\count300
+
+(D:\TEST\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.t
+ex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (D:\TEST\tex/latex/everypage\everypage.sty
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                providing the new functionality.
+(everypage)                Doing the best to deliver the original `everypage`
+(everypage)                interface on top of it. Strict equivalence is
+(everypage)                not possible, breakage may occur.
+(everypage)                If truly needed, Use `everypage-1x` to force the
+(everypage)                loading of an older code base.
+
+) (D:\TEST\tex/latex/tools\afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks40
+\AP@partial=\box64
+\AP@footins=\box65
+))
+(D:\TEST\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip53
+\enit@outerparindent=\dimen269
+\enit@toks=\toks41
+\enit@inbox=\box66
+\enit@count@id=\count301
+\enitdp@description=\count302
+)
+(D:\TEST\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(D:\TEST\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(D:\TEST\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(D:\TEST\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(D:\TEST\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(D:\TEST\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(D:\TEST\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(D:\TEST\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(D:\TEST\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(D:\TEST\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (D:\TEST\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+(D:\TEST\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(D:\TEST\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(D:\TEST\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count303
+)
+(D:\TEST\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count304
+)
+\@linkdim=\dimen270
+\Hy@linkcounter=\count305
+\Hy@pagecounter=\count306
+
+(D:\TEST\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(D:\TEST\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count307
+ (D:\TEST\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count308
+ (D:\TEST\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen271
+ (D:\TEST\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(D:\TEST\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count309
+\Field@Width=\dimen272
+\Fld@charsize=\dimen273
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(D:\TEST\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count310
+\c@Item=\count311
+\c@Hfootnote=\count312
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(D:\TEST\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(D:\TEST\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count313
+\c@bookmark@seq@number=\count314
+
+(D:\TEST\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(D:\TEST\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip54
+)
+(D:\TEST\tex/latex/listings\listings.sty
+\lst@mode=\count315
+\lst@gtempboxa=\box67
+\lst@token=\toks42
+\lst@length=\count316
+\lst@currlwidth=\dimen274
+\lst@column=\count317
+\lst@pos=\count318
+\lst@lostspace=\dimen275
+\lst@width=\dimen276
+\lst@newlines=\count319
+\lst@lineno=\count320
+\lst@maxwidth=\dimen277
+
+(D:\TEST\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count321
+\lst@skipnumbers=\count322
+\lst@framebox=\box68
+)
+(D:\TEST\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(D:\TEST\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+ (D:\TEST\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count323
+\float@exts=\toks43
+\float@box=\box69
+\@float@everytoks=\toks44
+\@floatcapt=\box70
+) (D:\TEST\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks45
+\c@algorithm=\count324
+)
+(D:\TEST\tex/latex/algorithmicx\algpseudocode.sty
+Package: algpseudocode 
+
+(D:\TEST\tex/latex/algorithmicx\algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count325
+\c@ALG@rem=\count326
+\c@ALG@nested=\count327
+\ALG@tlm=\skip55
+\ALG@thistlm=\skip56
+\c@ALG@Lnr=\count328
+\c@ALG@blocknr=\count329
+\c@ALG@storecount=\count330
+\c@ALG@tmpcounter=\count331
+\ALG@tmplength=\skip57
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+\c@definition=\count332
+\c@theorem=\count333
+ (D:\TEST\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(D:\TEST\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count334
+\l__pdf_internal_box=\box71
+) (REPORT.aux
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 9.
+
+
+(D:\TEST\tex/latex/vntex\t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+
+LaTeX Warning: Label `fig:terminal' multiply defined.
+
+
+LaTeX Warning: Label `fig:res2' multiply defined.
+
+
+LaTeX Warning: Label `fig:res2' multiply defined.
+
+)
+\openout1 = `REPORT.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+ (D:\TEST\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count335
+\scratchdimen=\dimen278
+\scratchbox=\box72
+\nofMPsegments=\count336
+\nofMParguments=\count337
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count338
+\MPscratchDim=\dimen279
+\MPnumerator=\count339
+\makeMPintoPDFobject=\count340
+\everyMPtoPDFconversion=\toks47
+) (D:\TEST\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(D:\TEST\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 441.01773pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\symgns@font=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 62.
+Package gensymb Info: Math companion symbols declared on input line 62.
+LaTeX Info: Redefining \degree on input line 62.
+LaTeX Info: Redefining \celsius on input line 62.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 62.
+LaTeX Info: Redefining \ohm on input line 62.
+Package gensymb Info: Using \textohm for \ohm on input line 62.
+Package gensymb Info: Using \textmu for \micro on input line 62.
+Package hyperref Info: Link coloring OFF on input line 62.
+(REPORT.out) (REPORT.out)
+\@outlinefile=\write4
+\openout4 = `REPORT.out'.
+
+\c@lstlisting=\count341
+<logo.png, id=162, 248.42813pt x 248.42813pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 89.
+(pdftex.def)             Requested size: 227.62204pt x 227.62413pt.
+<background.png, id=164, 524.067pt x 766.281pt>
+File: background.png Graphic file (type png)
+<use background.png>
+Package pdftex.def Info: background.png  used on input line 106.
+(pdftex.def)             Requested size: 597.50656pt x 845.07484pt.
+ [1
+
+{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./background
+.png> <./logo.png>]
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 126.
+(pdftex.def)             Requested size: 227.62204pt x 227.62413pt.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.143 \end{titlepage}
+                     
+File: background.png Graphic file (type png)
+<use background.png>
+Package pdftex.def Info: background.png  used on input line 143.
+(pdftex.def)             Requested size: 597.50656pt x 845.07484pt.
+ [1
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 717.00946pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=717.00946pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 \clearpage
+                 [1
+
+
+] (REPORT.toc [2
+
+
+])
+\tf@toc=\write5
+\openout5 = `REPORT.toc'.
+
+ [3] (REPORT.lof)
+\tf@lof=\write6
+\openout6 = `REPORT.lof'.
+
+ [4
+
+]
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 1
+89.
+
+(D:\TEST\tex/latex/vntex\t5cmtt.fd
+File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [5
+
+]
+Ch\uhorn \ohorn ng 1.
+
+Overfull \hbox (0.73865pt too wide) in paragraph at lines 242--243
+[]\T5/cmr/m/n/12 Total: passes com-pleted (Cmp), pass com-ple-tion (Cmp%), pro-
+gres-sive pass-
+ []
+
+[6
+
+]
+Overfull \hbox (20.52342pt too wide) in paragraph at lines 285--286
+[]\T5/cmr/m/n/12 Lßy d˙ liªu cÏ b£n  trang tÍng hÒp (https://fbref.com/en/comp
+s/9/stats/Premier-
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 325--328
+
+ []
+
+
+Overfull \hbox (6.09973pt too wide) in paragraph at lines 340--341
+\T5/cmr/m/n/12 keep-ing, lßy d˙ liªu t¯: https://fbref.com/en/comps/9/keepers/P
+remier-League-Stats 
+ []
+
+
+Overfull \hbox (3.85994pt too wide) in paragraph at lines 343--344
+[]\T5/cmr/m/n/12 update_Set_Goal_And_Shot_Creation_Data(player_set_dict): l† th
+ao t°c ^^_i c™p
+ []
+
+
+Overfull \hbox (65.27281pt too wide) in paragraph at lines 343--344
+\T5/cmr/m/n/12 nh™t d˙ liªu Goal And Shot Cre-ation, lßy d˙ liªu t¯: https://fb
+ref.com/en/comps/9/gca/Premier-
+ []
+
+
+Overfull \hbox (27.04462pt too wide) in paragraph at lines 344--345
+\T5/cmr/m/n/12 d˙ liªu De-fen-sive Ac-tions, lßy d˙ liªu t¯: https://fbref.com/
+en/comps/9/defense/Premier-
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 437--442
+
+ []
+
+[10] [11] [12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 674--675
+
+ []
+
+[14] [15]
+<Terminal.png, id=664, 1641.88406pt x 906.38625pt>
+File: Terminal.png Graphic file (type png)
+<use Terminal.png>
+Package pdftex.def Info: Terminal.png  used on input line 734.
+(pdftex.def)             Requested size: 455.24411pt x 251.31079pt.
+<results_csv.png, id=665, 1926.44719pt x 1083.29718pt>
+File: results_csv.png Graphic file (type png)
+<use results_csv.png>
+Package pdftex.def Info: results_csv.png  used on input line 746.
+(pdftex.def)             Requested size: 455.24411pt x 255.99643pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 738--751
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.751 \subsection
+                 {ƒê√°nh gi√°:} <./Terminal.png>] [17
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.758 \clearpage
+                 <./results_csv.png>]
+Ch\uhorn \ohorn ng 2.
+[18
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.2.1}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.786 	\item X
+              √°c ƒë·ªãnh ƒë·ªôi b√≥ng m·∫°nh nh·∫•t d·ª±a tr√™n vi·ªác so s...
+]
+Underfull \hbox (badness 10000) in paragraph at lines 816--817
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 886--887
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 935--939
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--990
+
+ []
+
+[21] [22]
+Overfull \hbox (47.1022pt too wide) in paragraph at lines 1086--1088
+\T5/cmr/bx/n/12 *  \T5/cmr/m/n/12 His-tograms_per_Team(df, team_column_name, va
+lid_indexes, max_teams_per_row_facet))
+ []
+
+[23] [24]
+<Terminal_2.png, id=940, 676.82426pt x 405.34044pt>
+File: Terminal_2.png Graphic file (type png)
+<use Terminal_2.png>
+Package pdftex.def Info: Terminal_2.png  used on input line 1216.
+(pdftex.def)             Requested size: 301.1261pt x 180.3419pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1220--1221
+
+ []
+
+<P2_RES.png, id=941, 737.78244pt x 378.94617pt>
+File: P2_RES.png Graphic file (type png)
+<use P2_RES.png>
+Package pdftex.def Info: P2_RES.png  used on input line 1224.
+(pdftex.def)             Requested size: 301.1261pt x 154.66928pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25]
+<top_3.png, id=953, 1608.16461pt x 903.68922pt>
+File: top_3.png Graphic file (type png)
+<use top_3.png>
+Package pdftex.def Info: top_3.png  used on input line 1234.
+(pdftex.def)             Requested size: 220.8258pt x 124.08873pt.
+<top_3_1.png, id=954, 1608.16461pt x 903.68922pt>
+File: top_3_1.png Graphic file (type png)
+<use top_3_1.png>
+Package pdftex.def Info: top_3_1.png  used on input line 1235.
+(pdftex.def)             Requested size: 220.8258pt x 124.08873pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1244 	\item C
+               h·ªâ s·ªë thi ƒë·∫•u k·ªπ thu·∫≠t: nh∆∞ s·ªë pha kh√¥ng chi·∫...
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1244 	\item C
+               h·ªâ s·ªë thi ƒë·∫•u k·ªπ thu·∫≠t: nh∆∞ s·ªë pha kh√¥ng chi·∫...
+ <./Terminal_2.png> <./P2_RES.png>]
+<results2.png, id=962, 1608.16461pt x 904.94609pt>
+File: results2.png Graphic file (type png)
+<use results2.png>
+Package pdftex.def Info: results2.png  used on input line 1249.
+(pdftex.def)             Requested size: 220.8258pt x 124.26132pt.
+<results2_1.png, id=963, 1608.16461pt x 904.94609pt>
+File: results2_1.png Graphic file (type png)
+<use results2_1.png>
+Package pdftex.def Info: results2_1.png  used on input line 1250.
+(pdftex.def)             Requested size: 220.8258pt x 124.26132pt.
+<Overall_League_Distribution_of_Player_Indexes.png, id=964, 867.24pt x 1084.05p
+t>
+File: Overall_League_Distribution_of_Player_Indexes.png Graphic file (type png)
+
+<use Overall_League_Distribution_of_Player_Indexes.png>
+Package pdftex.def Info: Overall_League_Distribution_of_Player_Indexes.png  use
+d on input line 1266.
+(pdftex.def)             Requested size: 401.50146pt x 501.87807pt.
+<Distribution_of_Performance_goals_by_Team.png, id=965, 1039.9653pt x 1084.05pt
+>
+File: Distribution_of_Performance_goals_by_Team.png Graphic file (type png)
+<use Distribution_of_Performance_goals_by_Team.png>
+Package pdftex.def Info: Distribution_of_Performance_goals_by_Team.png  used on
+ input line 1272.
+(pdftex.def)             Requested size: 301.1261pt x 313.88675pt.
+<Distribution_of_Performance_assists_by_Team.png, id=966, 1039.9653pt x 1084.05
+pt>
+File: Distribution_of_Performance_assists_by_Team.png Graphic file (type png)
+<use Distribution_of_Performance_assists_by_Team.png>
+Package pdftex.def Info: Distribution_of_Performance_assists_by_Team.png  used 
+on input line 1278.
+(pdftex.def)             Requested size: 301.1261pt x 313.88675pt.
+<Distribution_of_Expected_expected_goals_(xG)_by_Team.png, id=967, 1039.9653pt 
+x 1084.05pt>
+File: Distribution_of_Expected_expected_goals_(xG)_by_Team.png Graphic file (ty
+pe png)
+<use Distribution_of_Expected_expected_goals_(xG)_by_Team.png>
+Package pdftex.def Info: Distribution_of_Expected_expected_goals_(xG)_by_Team.p
+ng  used on input line 1284.
+(pdftex.def)             Requested size: 301.1261pt x 313.88675pt.
+<Distribution_of_Tackles_Tkl_by_Team.png, id=968, 1039.9653pt x 1084.05pt>
+File: Distribution_of_Tackles_Tkl_by_Team.png Graphic file (type png)
+<use Distribution_of_Tackles_Tkl_by_Team.png>
+Package pdftex.def Info: Distribution_of_Tackles_Tkl_by_Team.png  used on input
+ line 1290.
+(pdftex.def)             Requested size: 301.1261pt x 313.88675pt.
+<Distribution_of_Challenges_Att_by_Team.png, id=969, 1039.9653pt x 1084.05pt>
+File: Distribution_of_Challenges_Att_by_Team.png Graphic file (type png)
+<use Distribution_of_Challenges_Att_by_Team.png>
+Package pdftex.def Info: Distribution_of_Challenges_Att_by_Team.png  used on in
+put line 1296.
+(pdftex.def)             Requested size: 301.1261pt x 313.88675pt.
+<Distribution_of_Blocks_Blocks_by_Team.png, id=970, 1039.9653pt x 1084.05pt>
+File: Distribution_of_Blocks_Blocks_by_Team.png Graphic file (type png)
+<use Distribution_of_Blocks_Blocks_by_Team.png>
+Package pdftex.def Info: Distribution_of_Blocks_Blocks_by_Team.png  used on inp
+ut line 1302.
+(pdftex.def)             Requested size: 301.1261pt x 313.88675pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1306 \clearpage
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1306 \clearpage
+                  <./top_3.png> <./top_3_1.png> <./results2.png> <./results2_1.
+png>] [28
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1306 \clearpage
+                  <./Overall_League_Distribution_of_Player_Indexes.png>]
+[29
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.6}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1306 \clearpage
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.7}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1306 \clearpage
+                  <./Distribution_of_Performance_goals_by_Team.png> <./Distribu
+tion_of_Performance_assists_by_Team.png>] [30
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.8}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1306 \clearpage
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.9}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1306 \clearpage
+                  <./Distribution_of_Expected_expected_goals_(xG)_by_Team.png> 
+<./Distribution_of_Tackles_Tkl_by_Team.png>] [31
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.10})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1306 \clearpage
+                 
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.11})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1306 \clearpage
+                  <./Distribution_of_Challenges_Att_by_Team.png> <./Distributio
+n_of_Blocks_Blocks_by_Team.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1328--1333
+
+ []
+
+
+Overfull \hbox (11.64566pt too wide) in paragraph at lines 1328--1333
+\T5/cmr/bx/n/12 Distribution_of_Expected_expected_goals_(xG)_by_Team.png: \T5/c
+mr/m/n/12 Hºnh £nh n†y
+ []
+
+[32
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1340--1345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1351--1356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1362--1367
+
+ []
+
+[33]
+<best_team_summary.png, id=1011, 1608.16461pt x 904.94609pt>
+File: best_team_summary.png Graphic file (type png)
+<use best_team_summary.png>
+Package pdftex.def Info: best_team_summary.png  used on input line 1379.
+(pdftex.def)             Requested size: 301.1261pt x 169.44223pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1374--1388
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1374--1388
+
+ []
+
+[34
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.12})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1388 
+        <./best_team_summary.png>] [35]
+Ch\uhorn \ohorn ng 3.
+[36
+
+]
+Overfull \hbox (8.84431pt too wide) in paragraph at lines 1467--1468
+[]\T5/cmtt/m/n/12 Load_and_Preprocess_Data()\T5/cmr/m/n/12 : T£i d˙ liªu, x˚ l˛
+ thi∏u, chu©n h‚a. Tr£ v∑ \T5/cmtt/m/n/12 df_scaled\T5/cmr/m/n/12 ,
+ []
+
+[37]
+LaTeX Font Info:    Font shape `T5/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `T5/cmtt/m/n' tried instead on input line 1475.
+
+Overfull \hbox (13.93913pt too wide) in paragraph at lines 1506--1507
+[]\T5/cmr/m/n/12 Sau ^^_‚, d˙ liªu ^^_˜Òc ^^_i∑n khuy∏t b¨ng \T5/cmtt/m/n/12 im
+puter.fit_transform() \T5/cmr/m/n/12 v† l˜u v†o \T5/cmtt/m/n/12 df_imputed
+ []
+
+[38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 1558--1560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1560--1562
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1599--1602
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 1624--1626
+
+ []
+
+[41]
+<Terminal_3.png, id=1186, 1303.37373pt x 722.7pt>
+File: Terminal_3.png Graphic file (type png)
+<use Terminal_3.png>
+Package pdftex.def Info: Terminal_3.png  used on input line 1661.
+(pdftex.def)             Requested size: 301.1261pt x 166.96736pt.
+ [42
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1668 
+        <./Terminal_3.png>]
+<Elbow_Method_fo_Optimal_K.png, id=1192, 722.7pt x 433.62pt>
+File: Elbow_Method_fo_Optimal_K.png Graphic file (type png)
+<use Elbow_Method_fo_Optimal_K.png>
+Package pdftex.def Info: Elbow_Method_fo_Optimal_K.png  used on input line 1673
+.
+(pdftex.def)             Requested size: 301.1261pt x 180.67676pt.
+<Silhouette_Score.png, id=1193, 722.7pt x 433.62pt>
+File: Silhouette_Score.png Graphic file (type png)
+<use Silhouette_Score.png>
+Package pdftex.def Info: Silhouette_Score.png  used on input line 1681.
+(pdftex.def)             Requested size: 301.1261pt x 180.67676pt.
+ [43
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1686 
+        <./Elbow_Method_fo_Optimal_K.png>]
+<PCA_of_Clusters_k=6.png, id=1199, 867.24pt x 578.16pt>
+File: PCA_of_Clusters_k=6.png Graphic file (type png)
+<use PCA_of_Clusters_k=6.png>
+Package pdftex.def Info: PCA_of_Clusters_k=6.png  used on input line 1693.
+(pdftex.def)             Requested size: 301.1261pt x 200.75342pt.
+ [44
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1703   \item
+               Bi·ªÉu ƒë·ªì Elbow cho th·∫•y ƒë·ªô gi·∫£m c·ªßa \textit{With...
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1703   \item
+               Bi·ªÉu ƒë·ªì Elbow cho th·∫•y ƒë·ªô gi·∫£m c·ªßa \textit{With...
+ <./Silhouette_Score.png> <./PCA_of_Clusters_k=6.png>] [45] [46]
+Ch\uhorn \ohorn ng 4.
+
+Overfull \hbox (53.93553pt too wide) in paragraph at lines 1777--1778
+[]\T5/cmr/m/n/12 Collect player trans-fer val-ues for the 2024-2025 sea-son fro
+m https://www.footballtransfers.com.
+ []
+
+
+Overfull \hbox (148.25418pt too wide) in paragraph at lines 1784--1785
+[]\T5/cmr/m/n/12 C™p nh™t d˙ liªu Tran-fer val-ues (Gi° tr‡ chuy∫n nh˜Òng t¯ we
+b https://www.footballtransfers.com/us/players/uk-
+ []
+
+[47
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1810--1811
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1826
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1826
+
+ []
+
+[48]
+Overfull \hbox (21.17567pt too wide) in paragraph at lines 1873--1874
+[]\T5/cmr/m/n/12 Trong mÈi v·ng l∞p, m¢ HTML hiªn t§i cıa trang ^^_˜Òc lßy thÊn
+g qua \T5/cmtt/m/n/12 driver.page_source
+ []
+
+
+Overfull \hbox (50.34387pt too wide) in paragraph at lines 1873--1874
+\T5/cmtt/m/n/12 soup.find(...) \T5/cmr/m/n/12 (d·ng 16). Sau ^^_‚, c°c th¥ ch˘a
+ t∂n c¶u thı (\T5/cmtt/m/n/12 name_tags = table.find_all(...)\T5/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (92.5541pt too wide) in paragraph at lines 1877--1878
+[]\T5/cmr/m/n/12 ^^^∫ ti∏p tˆc sang trang ti∏p theo, ch˜Ïng trºnh tºm nÛt ph•n 
+trang thÊng qua \T5/cmtt/m/n/12 driver.find_element(...)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1882
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1879--1882
+
+ []
+
+[49]
+<Terminal_4.png, id=1300, 1072.73817pt x 576.90314pt>
+File: Terminal_4.png Graphic file (type png)
+<use Terminal_4.png>
+Package pdftex.def Info: Terminal_4.png  used on input line 1893.
+(pdftex.def)             Requested size: 301.1261pt x 161.9367pt.
+<P4_RES.png, id=1301, 1603.76556pt x 903.68922pt>
+File: P4_RES.png Graphic file (type png)
+<use P4_RES.png>
+Package pdftex.def Info: P4_RES.png  used on input line 1900.
+(pdftex.def)             Requested size: 351.31378pt x 197.9573pt.
+<P41_RES.png, id=1302, 541.08235pt x 732.12653pt>
+File: P41_RES.png Graphic file (type png)
+<use P41_RES.png>
+Package pdftex.def Info: P41_RES.png  used on input line 1901.
+(pdftex.def)             Requested size: 301.1261pt x 407.45216pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1897--1910
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[50
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1910 \clearpage
+                  <./Terminal_4.png>] [51
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1910 \clearpage
+                  <./P4_RES.png> <./P41_RES.png>] [52
+
+]
+Overfull \hbox (2.31339pt too wide) in paragraph at lines 1943--1945
+[]\T5/cmr/bx/n/12 *\T5/cmr/m/n/12 Thu™t to°n Ran-dom For-est Re-gres-sor Cho t™
+p hußn luyªn $\OML/cmm/m/it/12 D \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 f\OT1/cmr/m
+/n/12 (\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; :::; \OT1/c
+mr/m/n/12 (\OML/cmm/m/it/12 x[]; y[]\OT1/cmr/m/n/12 )\OMS/cmsy/m/n/12 g$\T5/cmr
+/m/n/12 ,
+ []
+
+[53] [54] [55]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÇ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2039 ...df['Transfer values'].str.replace('‚Ç¨',
+                                                   '', regex=False).str.repl...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "AC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2039 ...df['Transfer values'].str.replace('‚Ç¨',
+                                                   '', regex=False).str.repl...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+[56]
+
+! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÇ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2086 ...(f"Mean Absolute Error: {mae:,.0f} ‚Ç¨")
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "AC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2086 ...(f"Mean Absolute Error: {mae:,.0f} ‚Ç¨")
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (100.37021pt too wide) in paragraph at lines 2105--2105
+[]\T5/cmtt/m/n/12 df['Playing Time: minutes'] = df['Playing Time: minutes'].str
+.replace(',', '').astype(int)[] 
+ []
+
+! Undefined control sequence.
+<argument> \csname system@active"\endcsname \‚
+                                              
+l.2108 ...Én nh∆∞·ª£ng t·ª´ chu·ªói (v√≠ d·ª•: "\‚
+                                                  Ç¨50.5M") sang s·ªë th·ª±c:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Invalid UTF-8 byte "82.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2108 ...n nh∆∞·ª£ng t·ª´ chu·ªói (v√≠ d·ª•: "\‚Ç
+                                                  ¨50.5M") sang s·ªë th·ª±c:
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "AC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2108 ... nh∆∞·ª£ng t·ª´ chu·ªói (v√≠ d·ª•: "\‚Ç¨
+                                                  50.5M") sang s·ªë th·ª±c:
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+2113.
+(D:\TEST\tex/latex/base\ts1cmtt.fd
+File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Overfull \hbox (402.87134pt too wide) in paragraph at lines 2113--2113
+[]\T5/cmtt/m/n/12 df['Transfer values'] = df['Transfer values'].str.replace('\T
+S1/cmtt/m/n/12 ø\T5/cmtt/m/n/12 ', '', regex=False).str.replace('M', '', regex=
+False).astype(float) * 1_000_000[] 
+ []
+
+
+Overfull \hbox (470.77975pt too wide) in paragraph at lines 2121--2121
+[]\T5/cmtt/m/n/12 features = ['Age', 'Position', 'Playing Time: minutes', 'Perf
+ormance: goals', 'Performance: assists', 'GCA: GCA', 'Progression: PrgR', 'Tack
+les: Tkl'][] 
+ []
+
+
+Overfull \hbox (94.19672pt too wide) in paragraph at lines 2128--2128
+[]\T5/cmtt/m/n/12 X_train, X_test, y_train, y_test = train_test_split(X, y, tes
+t_size=0.2, random_state=42)[] 
+ []
+
+
+Overfull \hbox (446.08578pt too wide) in paragraph at lines 2144--2144
+[]\T5/cmtt/m/n/12 numeric_features = ['Age', 'Playing Time: minutes', 'Performa
+nce: goals', 'Performance: assists', 'GCA: GCA', 'Progression: PrgR', 'Tackles:
+ Tkl'][] 
+ []
+
+
+Overfull \hbox (26.2883pt too wide) in paragraph at lines 2144--2144
+[]        \T5/cmtt/m/n/12 ('cat', OneHotEncoder(handle_unknown='ignore'), categ
+orical_features),[] 
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 2185--2186
+
+ []
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (·\expandafter\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± 
+                  ƒëo√°n gi√° tr·ªã c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± 
+                  ƒëo√°n gi√° tr·ªã c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "B1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± 
+                  ƒëo√°n gi√° tr·ªã c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ƒ\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n 
+                         gi√° tr·ªã c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "91.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n 
+                         gi√° tr·ªã c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (√\lst@EC°).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n 
+                         gi√° tr·ªã c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (√\expandafter).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° 
+                              tr·ªã c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "A1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° 
+                              tr·ªã c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (·\expandafter\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° tr·ªã 
+                                    c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° tr·ªã 
+                                    c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "8B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° tr·ªã 
+                                    c·∫ßu th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (·\expandafter\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° tr·ªã c·∫ßu 
+                                          th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "BA.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° tr·ªã c·∫ßu 
+                                          th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "A7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° tr·ªã c·∫ßu 
+                                          th·ªß m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (·\expandafter\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° tr·ªã c·∫ßu th·ªß 
+                                                m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° tr·ªã c·∫ßu th·ªß 
+                                                m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "A7.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202     # D·ª± ƒëo√°n gi√° tr·ªã c·∫ßu th·ªß 
+                                                m·ªõi
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (·\expandafter\lst@FillFixed@).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202 ...D·ª± ƒëo√°n gi√° tr·ªã c·∫ßu th·ªß m·ªõi
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "BB.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202 ...D·ª± ƒëo√°n gi√° tr·ªã c·∫ßu th·ªß m·ªõi
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "9B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202 ...D·ª± ƒëo√°n gi√° tr·ªã c·∫ßu th·ªß m·ªõi
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (‚\lst@FillFixed@\lst@ECÇ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2204 ...r value: {predicted_value[0]:,.0f} ‚Ç¨")
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "AC.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2204 ...r value: {predicted_value[0]:,.0f} ‚Ç¨")
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+<Terminal_41.png, id=1423, 695.04887pt x 190.41574pt>
+File: Terminal_41.png Graphic file (type png)
+<use Terminal_41.png>
+Package pdftex.def Info: Terminal_41.png  used on input line 2210.
+(pdftex.def)             Requested size: 301.1261pt x 82.49603pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[58] [59
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2229 \end{itemize}
+                     <./Terminal_41.png>] [60]
+Overfull \hbox (29.57507pt too wide) in paragraph at lines 2265--2267
+\T5/cmtt/m/n/12 footballtransfers.com \T5/cmr/m/n/12 cho c°c c¶u thı thi ^^_ßu 
+tr∂n 900 phÛt (l˜u t§i \T5/cmtt/m/n/12 MoreThan900mins.csv\T5/cmr/m/n/12 ).
+ []
+
+[61
+
+] [62]
+Overfull \hbox (25.79994pt too wide) in paragraph at lines 2293--2294
+\T5/cmr/m/n/12 mar-ket. Jour-nal of Phys-i-cal Ed-u-ca-tion and Sport. 21. 1150
+-1155. 10.7752/jpes.2021.s2145. 
+ []
+
+[63
+
+] (REPORT.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `REPORT.out' has not changed.
+(rerunfilecheck)             Checksum: AB1F7C0E89E80EB4748530FDEA0595C9;5964.
+ ) 
+Here is how much of TeX's memory you used:
+ 26902 strings out of 474486
+ 472925 string characters out of 5761109
+ 2518542 words of memory out of 5000000
+ 47727 multiletter control sequences out of 15000+600000
+ 579330 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,13n,107p,1866b,2382s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx
+1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tctt1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/d
+pi600\vnr8.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/d
+pi600\vntt8.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/vntex/vnr/
+dpi600\vnr6.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1200.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/vnte
+x/vnr/dpi600\vnti12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/vn
+tex/vnr/dpi600\vntt12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/
+vntex/vnr/dpi1244\vnbx12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/vntex/vnr/dpi720\vnr12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljf
+our/vntex/vnr/dpi600\vnbx12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/l
+jfour/vntex/vnr/dpi1037\vnbx12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/p
+k/ljfour/vntex/vnr/dpi600\vnr12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\fonts/
+pk/ljfour/vntex/vnr/dpi864\vnbx12.pk> <C:\Users\Admin\AppData\Local\MiKTeX\font
+s/pk/ljfour/vntex/vnr/dpi720\vnbx12.pk><D:/TEST/fonts/type1/public/amsfonts/cm/
+cmex10.pfb><D:/TEST/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/TEST/fonts/ty
+pe1/public/amsfonts/cm/cmmi8.pfb><D:/TEST/fonts/type1/public/amsfonts/cm/cmr12.
+pfb><D:/TEST/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/TEST/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb>
+Output written on REPORT.pdf (65 pages, 3755865 bytes).
+PDF statistics:
+ 2490 PDF objects out of 2984 (max. 8388607)
+ 1017 named destinations out of 1200 (max. 500000)
+ 455 words of extra memory for PDF output out of 10000 (max. 10000000)
+
